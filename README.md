@@ -1,2 +1,3 @@
 # dotfiles
-contain dotfiles configuration such as .vimrc
+This repository contain dotfiles configuration such as .vimrc
+
